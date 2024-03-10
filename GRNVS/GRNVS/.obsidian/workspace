@@ -1,0 +1,119 @@
+{
+  "main": {
+    "id": "0d2876ee69b6ec13",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b77b9262a938fae",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Layer 4 - Transport Layer - Transportschicht/Verbindungsorientiert.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0207fdfb5d653733",
+    "type": "split",
+    "children": [
+      {
+        "id": "197b4df3e17dce4f",
+        "type": "tabs",
+        "dimension": 46.103896103896105,
+        "children": [
+          {
+            "id": "d95185c6865548d7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "92af2c5f8c9007c1",
+        "type": "tabs",
+        "dimension": 53.896103896103895,
+        "children": [
+          {
+            "id": "859379362ade5de4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "06accdf00b7d8bb2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "go back",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 401.5
+  },
+  "right": {
+    "id": "d9c53fd0abb95e3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5c65235ec4ce3dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "445708d9bfec2499",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d95185c6865548d7",
+  "lastOpenFiles": [
+    "Layer 4 - Transport Layer - Transportschicht/Verbindungsorientiert.md",
+    "Layer 2 - Data Link Layer - Sicherungsschicht/CRC - Cyclic Redundancy Check.md",
+    "Layer 3 - Network Layer - Vermittlungsschicht/IPv4 (Internet Protocol version 4).md",
+    "Layer 3 - Network Layer - Vermittlungsschicht/Adressauflösung.md",
+    "Layer 2 - Data Link Layer - Sicherungsschicht/Hubs, Bridges und Switches.md",
+    "Layer 2 - Data Link Layer - Sicherungsschicht/Switches.md",
+    "Layer 2 - Data Link Layer - Sicherungsschicht/Bridges.md",
+    "Layer 7-Application Layer/DNS.md",
+    "Layer 7-Application Layer/Anwendungsschicht (Application Layer).md",
+    "Layer 3 - Network Layer - Vermittlungsschicht/Autonome Systeme (AS).md"
+  ]
+}

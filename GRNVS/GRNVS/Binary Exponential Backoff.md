@@ -1,0 +1,3 @@
+[[CSMA]] : [[CSMA-CD]] und [[CSMA-CA]].
+
+- CSMA (sowohl CD als auch CA) warten nach einer Kollision bzw. nicht erfolgreichen Übertragung eine **zufällige** Anzahl an **Slotzeiten**. Diese Anzahl wird aus dem ==**Backoff-Window== zufällig und gleichverteilt gezogen**. Mit jeder Kollision bzw. nicht erfolgreichen Übertraung wird dieses Fenster **verdoppelt** (binary exponential) bis ein bestimmter Maximalwert erreicht ist. Nach einer erfolgreiche Übertragung wird das Fenster zurückgesetzt.

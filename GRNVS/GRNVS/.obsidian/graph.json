@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"Layer 2\"",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"Layer 3\"",
+      "color": {
+        "a": 1,
+        "rgb": 3030271
+      }
+    },
+    {
+      "query": "path:\"Layer 4\"",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"Layer 5\"",
+      "color": {
+        "a": 1,
+        "rgb": 16756224
+      }
+    },
+    {
+      "query": "path:\"Layer 6 - Presentation Layer\"",
+      "color": {
+        "a": 1,
+        "rgb": 8380864
+      }
+    },
+    {
+      "query": "path:\"Layer 7-Application Layer\"",
+      "color": {
+        "a": 1,
+        "rgb": 14701276
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -1,
+  "nodeSizeMultiplier": 1.21623621323529,
+  "lineSizeMultiplier": 5,
+  "collapse-forces": true,
+  "centerStrength": 0.481236645299145,
+  "repelStrength": 8.91819852941177,
+  "linkStrength": 0.404090073529412,
+  "linkDistance": 137,
+  "scale": 1.1065583301977084,
+  "close": false
+}
