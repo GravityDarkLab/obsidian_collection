@@ -1,8 +1,8 @@
 # Learning Summaries
 
-> __Note:__ This repository is a work in progress.
-> __Note:__ Please refer to the original sources for the most accurate information.
-> __Note:__ The summeries are not complete and may contain errors. I am not responsible for any damage caused by using the summaries. Use them at your own risk.
+> __Note: This repository is a work in progress.__
+> __Note: Please refer to the original sources for the most accurate information.__
+> __Note: The summeries are not complete and may contain errors. I am not responsible for any damage caused by using the summaries. Use them at your own risk.__
 
 This repository provide summaries of the courses I had at TUM. The summaries can be in German or English, depending on the language of the course.
 
