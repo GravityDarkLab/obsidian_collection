@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "7453d78619754f45",
+    "type": "split",
+    "children": [
+      {
+        "id": "52a8dac74cdca9ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ec3606ced770edf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_Stochastische Prozesse/Stochastische Prozesse.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3e5f6f81e4cb9726",
+    "type": "split",
+    "children": [
+      {
+        "id": "17bc03fb01802b86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd2aa80d34cc2104",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "10d524d074112b1a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "bino",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3ff8816ca946ef6e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "f94b18c62a093ae9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "ba6119ac87a6a10e",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "18c7ad9a77b47e8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c2e85f915aff432",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3328a2561c50a25c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03_Stochastische Prozesse/Stochastische Prozesse.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d8c69d5a9f1a7adb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03_Stochastische Prozesse/Stochastische Prozesse.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1aa7591a8d4d6189",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3426cb16155eb87c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03_Stochastische Prozesse/Stochastische Prozesse.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
+    }
+  },
+  "active": "2ec3606ced770edf",
+  "lastOpenFiles": [
+    "03_Stochastische Prozesse/Doppeltstochastische Matrizen.md",
+    "03_Stochastische Prozesse/Aperiodizität.md",
+    "03_Stochastische Prozesse/Matrix.md",
+    "03_Stochastische Prozesse/Prozess mit diskreter Zeit.md",
+    "03_Stochastische Prozesse/Stochastische Prozesse.md",
+    "Prozess mit kontinuierliche Zeit.md",
+    "02_Statistik/Binomial-Test.md",
+    "02_Statistik/Zwei-Stichproben-Test.md",
+    "02_Statistik/Gaußtest.md",
+    "02_Statistik/t-Test.md",
+    "02_Statistik/𝜒²-Anpassungstest.md",
+    "02_Statistik/Hypothesentests.md",
+    "00_Diskrete Wahrscheinlichkeitsräume/Binomialverteilung.md",
+    "00_Diskrete Wahrscheinlichkeitsräume/Zufallsvariablen.md",
+    "02_Statistik/Schätzvariablen.md",
+    "00_Diskrete Wahrscheinlichkeitsräume/Bedingte Wahrscheinlichkeiten.md",
+    "01_Kontinuierliche Wahrscheinlichkeitsräume./Poisson-Prozess.md",
+    "01_Kontinuierliche Wahrscheinlichkeitsräume./Mehrere kontinuierlich Zufallsvariablen.md",
+    "01_Kontinuierliche Wahrscheinlichkeitsräume./Exponentialverteilung.md",
+    "01_Kontinuierliche Wahrscheinlichkeitsräume./Normalverteilung.md",
+    "01_Kontinuierliche Wahrscheinlichkeitsräume./Kolmogorov-Axiome und σ-Algebren.md",
+    "00_Diskrete Wahrscheinlichkeitsräume/Birthday Problem.md",
+    "01_Kontinuierliche Wahrscheinlichkeitsräume./Grundlagen_Kontinuierlich.md",
+    "00_Diskrete Wahrscheinlichkeitsräume/Poisson-verteilung.md",
+    "00_Diskrete Wahrscheinlichkeitsräume/Grundlagen_Diskrete.md",
+    "02_Statistik/Quantil.md",
+    "03_Stochastische Prozesse/Assets/Pasted image 20230716182748.png",
+    "03_Stochastische Prozesse/Assets/Pasted image 20230716175512.png",
+    "03_Stochastische Prozesse/Assets/Pasted image 20230716151232.png",
+    "03_Stochastische Prozesse/Assets/Pasted image 20230716182913.png",
+    "03_Stochastische Prozesse/Assets/Pasted image 20230716182810.png",
+    "03_Stochastische Prozesse/Assets/Pasted image 20230716174551.png",
+    "03_Stochastische Prozesse/Assets/Pasted image 20230716174523.png",
+    "03_Stochastische Prozesse/Assets/Pasted image 20230716173914.png",
+    "03_Stochastische Prozesse/Assets/Pasted image 20230716173745.png",
+    "03_Stochastische Prozesse/Assets/Pasted image 20230716153151.png",
+    "03_Stochastische Prozesse/Assets",
+    "02_Statistik/Assets",
+    "01_Kontinuierliche Wahrscheinlichkeitsräume./Assets",
+    "00_Diskrete Wahrscheinlichkeitsräume/00_Assets",
+    "03_Stochastische Prozesse",
+    "02_Statistik",
+    "01_Kontinuierliche Wahrscheinlichkeitsräume.",
+    "00_Diskrete Wahrscheinlichkeitsräume"
+  ]
+}

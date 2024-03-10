@@ -1,0 +1,1 @@
+- Für eine Zufallsvariable X nennen wir $$\mathbb{E}[X^k]$$ das **==k-te Mement==** und $$Var[X]=\mathbb{E}[(X-\mathbb{E}[X])^k]$$ das **==k-te zentrale Moment==**.

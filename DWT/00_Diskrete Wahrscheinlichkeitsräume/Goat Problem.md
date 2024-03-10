@@ -1,0 +1,8 @@
+[[Bedingte Wahrscheinlichkeiten]].
+
+
+- Suppose you're a contestant on a game show, and you're presented with three doors. Behind one of the doors is a car, and behind the other two doors are goats. You get to choose one door, but you don't get to see what's behind it yet. After you make your choice, the host, who knows what's behind each door, opens one of the other two doors to reveal a goat. The host then gives you the option to stick with your original choice or switch to the remaining unopened door. What should you do to maximize your chances of winning the car?
+
+The answer to this question might seem counterintuitive, but it's actually more beneficial to switch doors than to stick with your initial choice. The reason for this has to do with conditional probability.
+When you first choose a door, there's a 1/3 chance that you've picked the door with the car behind it and a 2/3 chance that you've picked one of the doors with a goat behind it. When the host opens one of the other doors to reveal a goat, this doesn't change the fact that there's a 1/3 chance that your initial choice was correct, but it does increase the probability that the other unopened door contains the car. In fact, the probability that the other door contains the car is now 2/3, since we know for sure that one of the other two doors contains a goat.
+So, by switching doors, you increase your chances of winning the car from 1/3 to 2/3. This might seem counterintuitive because it feels like you're giving up your original choice, but in reality, the probability has shifted in your favor due to the information that the host revealed.
