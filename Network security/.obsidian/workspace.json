@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "941f47eb3c77023b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ee7f17ee0dd15fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa470c41ad1d195c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "13- IPSec/13.9- Authentication Header.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "794cc382b6e7df52",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae9d55617b4122e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc84c1b33eebdbb1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "47f16c5271744e78",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Internet key",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a45f0c88af1ec724",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e9f09d272b47bd8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf341a08f45fe453",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d230a434d3b545b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "13- IPSec/13.9- Authentication Header.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "befeb0952f36a9fb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "13- IPSec/13.9- Authentication Header.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9282c711a20461f9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6f0c8931397d18ad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "13- IPSec/13.9- Authentication Header.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "fa470c41ad1d195c",
+  "lastOpenFiles": [
+    "13- IPSec/13- IPSec.md",
+    "13- IPSec/13.15- Message and Payload Format.md",
+    "13- IPSec/13.14- Advanced IKEv2 Features.md",
+    "08- Secure Channels/8.5- Secure Channel (ESP) in the OpenBSD Kernel.md",
+    "13- IPSec/13.11- Protocol Exchanges.md",
+    "13- IPSec/13.10- Cryptographic Algorithms in IPSec.md",
+    "13- IPSec/13.9- Authentication Header.md",
+    "13- IPSec/13.8- Encapsulating Security Payload (ESP).md",
+    "13- IPSec/13.7- Processing of IPSec Traffic.md",
+    "13- IPSec/13.6- Security Associations.md",
+    "13- IPSec/13.5- Security Policies.md",
+    "13- IPSec/13.4- IPSec Security Protocol Modes.md",
+    "13- IPSec/13.3- IPSec Replay Protection.md",
+    "13- IPSec/13.2- RFC 4301.md",
+    "13- IPSec/13.1 How does IPSec work?.md",
+    "09- PKI/X.509.md",
+    "09- PKI/9.1- Hierarchical PKIs.md",
+    "09- PKI/9- Public Key Infrastructures.md",
+    "12- Kerberos/12- Kerberos and other Frameworks for Client Authentication.md",
+    "11- Web Security/TLS 1.3.md",
+    "11- Web Security/Next Secure Record (NSEC).md",
+    "11- Web Security/Digital Signing.md",
+    "11- Web Security/Chain of Trust.md",
+    "11- Web Security/11.6- Domain Name System Security Extensions (DNSSEC).md",
+    "11- Web Security/11.5- Certification Authority Authorization (CAA).md",
+    "11- Web Security/11.4- Certificate Transparency (CT).md",
+    "01-Introduction/TCP UDP.png",
+    "Screenshot 2024-02-12 at 20.43.59.png",
+    "Screenshot 2024-02-11 at 16.46.12.png",
+    "13- IPSec",
+    "12- Kerberos",
+    "11- Web Security",
+    "10- Cryptographic protocols",
+    "00- assets/meme.png",
+    "09- PKI",
+    "08- Secure Channels",
+    "07- Asymmetric Cryptography",
+    "06- Randomness",
+    "05- Cryptography Hash Functions",
+    "04- Symmetric Encryption",
+    "00- assets/Screenshot 2024-02-06 at 21.16.30.png",
+    "00- assets/Screenshot 2024-02-06 at 22.28.18.png",
+    "00- assets/Screenshot 2024-02-06 at 22.26.20.png",
+    "00- assets/Screenshot 2024-02-06 at 22.25.53.png",
+    "00- assets/Screenshot 2024-02-06 at 22.24.57.png",
+    "00- assets/Screenshot 2024-02-06 at 22.14.55.png"
+  ]
+}

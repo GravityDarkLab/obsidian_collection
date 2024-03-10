@@ -1,0 +1,9 @@
+- Evolving the **[[11.1- TLS (Transport layer Security)]]** Standard
+	- [[11.1.1- Privacy leaks and other drawbacks in TLS 1.2]].
+	- [[TLS 1.3]] standardization and its controversies
+- Topics in HTTP Security
+	- [[11.2- TLS downgrade protection]].
+	- [[11.3- Host Strict Transport Security]].
+- [[11.4- Certificate Transparency (CT)]].
+- [[11.5- Certification Authority Authorization (CAA)]].
+- [[11.6- Domain Name System Security Extensions (DNSSEC)]].

@@ -1,0 +1,11 @@
+Part of:  [[11.6- Domain Name System Security Extensions (DNSSEC)]].
+
+1. **Child Zone's $KSK$**: Each child zone generates a Key Signing Key ($KSK$), which is used specifically to **==sign other keys within the zone==**, namely the Zone Signing Key ($ZSK$). The public part of the KSK (`KSK_pub`) is then hashed. This hash is crucial because it uniquely represents the `KSK_pub` without revealing it directly.
+2. **Creating the DS Record**: This hash, along with an identifier for the $KSK$ and the algorithm used for hashing, are bundled into a Delegation Signer ($DS$) record. This $DS$ record is essentially a compact, secure reference to the `KSK_pub` of the child zone.
+3. **DS Record's Role**: By integrating the $KSK_{pub}$  into the $DS$ record (through its hash), it becomes **==difficult for attackers to swap the KSK==** without being detected. This is why the DS record is so important—it securely points to the correct $KSK_{pub}$.
+4. **Why Use ZSK for Signing Resource Records**: The actual signing of DNS records (like A, AAAA, TXT records) within the zone is done using the $ZSK$. This separation of duties allows for more frequent rotation of the $ZSK$ without needing to update the $DS$ record in the parent zone, minimizing administrative overhead and enhancing security.
+5. **Parent Zone Involvement**: The $DS$ record is then placed in the parent zone. To further secure this link, the parent zone signs the $DS$ record with its own $ZSK$ 's private key ($ZSK_{priv}$). This signature ensures that any resolver looking to validate the child zone's data can trust the $DS$ record if it trusts the parent zone.
+6. **Trust Transfer**: ==When a resolver, which already trusts the parent zone, encounters the signed DS record, it can extend its trust to the child zone and its `KSK_pub` ==. This is because the signed DS record serves as a verifiable link between the parent and child zones.
+7. **Walking the Chain of Trust**: ==Starting from the root zone== (which is implicitly trusted by resolvers through a pre-configured trust anchor), a ==resolver can follow this chain of trust. By validating each DS record and corresponding KS==, it can securely navigate down the DNS hierarchy to the specific target zone or domain it was looking for.
+ 
+![[Screenshot 2024-02-03 at 12.07.38.png]]

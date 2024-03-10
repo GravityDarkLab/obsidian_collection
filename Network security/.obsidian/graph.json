@@ -1,0 +1,114 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:01-Introduction  ",
+      "color": {
+        "a": 1,
+        "rgb": 290811
+      }
+    },
+    {
+      "query": "path:\"02- TCP Attacks\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:\"03 Middleboxes & Security Policies\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5023744
+      }
+    },
+    {
+      "query": "path:\"04- Symmetric Encryption\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11204855
+      }
+    },
+    {
+      "query": "path:\"05- Cryptography Hash Functions\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16116992
+      }
+    },
+    {
+      "query": "path:\"06- Randomness\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8601577
+      }
+    },
+    {
+      "query": "path:\"07- Asymmetric Cryptography\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15943679
+      }
+    },
+    {
+      "query": "path:\"08- Secure Channels\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16613761
+      }
+    },
+    {
+      "query": "path:\"09- PKI\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9140180
+      }
+    },
+    {
+      "query": "path:\"10- Cryptographic protocols\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6876823
+      }
+    },
+    {
+      "query": "path:\"11- Web Security\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:\"12- Kerberos\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16753152
+      }
+    },
+    {
+      "query": "path:\"13- IPSec\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 7602690
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -0.1,
+  "nodeSizeMultiplier": 1.18782552083333,
+  "lineSizeMultiplier": 1.99033610026042,
+  "collapse-forces": true,
+  "centerStrength": 0.585367838541667,
+  "repelStrength": 10.0333658854167,
+  "linkStrength": 0.622762044270833,
+  "linkDistance": 201,
+  "scale": 0.3856567806823569,
+  "close": true
+}
