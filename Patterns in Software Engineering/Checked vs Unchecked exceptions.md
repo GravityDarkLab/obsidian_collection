@@ -1,0 +1,5 @@
+In Java, exceptions are events that occur during the execution of a program that disrupt its normal flow of control. Exceptions can be classified into two categories: checked exceptions and unchecked exceptions.
+
+Checked exceptions are exceptions that must be declared in the method signature or handled in a try-catch block. Examples of checked exceptions include IOException and SQLException. These exceptions are meant to signal situations that are not normal, but can be handled by the program. When a checked exception is thrown, the compiler requires the developer to handle it by either declaring it in the method signature or wrapping it in a try-catch block.
+
+Unchecked exceptions, on the other hand, are exceptions that do not need to be declared in the method signature or handled in a try-catch block. Examples of unchecked exceptions include NullPointerException, IllegalArgumentException, and ArithmeticException. These exceptions are meant to signal programming errors and bugs in the code. When an unchecked exception is thrown, the program may continue to execute, but the results may be unpredictable.
